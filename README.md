@@ -11,37 +11,37 @@ Per tutti coloro che sono alla ricerca di un'opportunità di lavoro, è inoltre 
 09:00 09:30  
 Registrazione  
 
-09:30 10:30 
+09:30 10:30  
 Keynote - DotNetSide, Microsoft, Talentia Software  
 
-10:30 11:30 
+10:30 11:30  
 ASP.NET Core - Daniele Bochicchio (Microsoft Regional Director, ASPItalia, iCubed)  
 
-11:30 11:45 
+11:30 11:45  
 Pausa  
 
-11:45 13:00 
+11:45 13:00  
 Microsoft for IoT: Windows and Azure - Erica Barone (Microsoft)  
 
-13:00 14:00 
+13:00 14:00  
 Pranzo  
 
-14:00 15:00 
+14:00 15:00  
 Azure unleashed: Asp.net core &lt;3 CQRS - Andrea Saltarello (Microsoft Regional Director, UGIdotNET, Managed Designs)  
 
-15:00 16:00 
+15:00 16:00  
 Angular JS 2 - Michele Aponte (MVP, DotNetCampania, Blexin)   
 
-16:00 16:15 
+16:00 16:15  
 Pausa  
 
-16:15 17:15 
+16:15 17:15  
 From 0 to Xamarin: Adventures in a Cross-Platform world - Fabio Cozzolino (MVP, DotNetSide)  
 
-17:15 18:15 
+17:15 18:15  
 Universal Windows Platform: Design an enterprise architecture for universal app - Salvatore Aprile (DotNetSide, Beque)  
 
-18:15 18:30 
+18:15 18:30  
 Chiusura lavori
 
 # Labs
