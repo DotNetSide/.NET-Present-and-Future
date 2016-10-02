@@ -32,7 +32,7 @@ Azure unleashed: Asp.net core &lt;3 CQRS - Andrea Saltarello (Microsoft Regional
 
 15:00 16:00  
 Angular JS 2 - Michele Aponte (MVP, DotNetCampania, Blexin)   
-[Slides](https://github.com/DotNetSide/.NET-Present-and-Future/tree/gh-pages/04%20Angular%20JS%202)
+[Slides](https://github.com/DotNetSide/.NET-Present-and-Future/tree/gh-pages/04%20Angular%20JS%202) [Code](https://github.com/apomic80)
 
 16:00 16:15  
 Pausa  
@@ -43,7 +43,7 @@ From 0 to Xamarin: Adventures in a Cross-Platform world - Fabio Cozzolino (MVP, 
 
 17:15 18:15  
 Universal Windows Platform: Design an enterprise architecture for universal app - Salvatore Aprile (DotNetSide, Beque)  
-[Slides and code](https://github.com/DotNetSide/.NET-Present-and-Future/tree/gh-pages/06%20Universal%20Windows%20Platform%20-%20Design%20an%20enterprise%20architecture%20for%20universal%20app)
+[Slides](https://github.com/DotNetSide/.NET-Present-and-Future/tree/gh-pages/06%20Universal%20Windows%20Platform%20-%20Design%20an%20enterprise%20architecture%20for%20universal%20app) [Code](https://github.com/DotNetSide/.NET-Present-and-Future/tree/gh-pages/06%20Universal%20Windows%20Platform%20-%20Design%20an%20enterprise%20architecture%20for%20universal%20app)
 
 18:15 18:30  
 Chiusura lavori
