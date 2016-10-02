@@ -39,7 +39,7 @@ Pausa
 
 16:15 17:15  
 From 0 to Xamarin: Adventures in a Cross-Platform world - Fabio Cozzolino (MVP, DotNetSide)  
-[Slides](https://github.com/DotNetSide/.NET-Present-and-Future/tree/gh-pages/05%20From%200%20to%20Xamarin%20-%20Adventures%20in%20a%20Cross%20Platform%20world)
+[Slides](https://github.com/DotNetSide/.NET-Present-and-Future/tree/gh-pages/05%20From%200%20to%20Xamarin%20-%20Adventures%20in%20a%20Cross%20Platform%20world) [Code](https://github.com/fabiocozzolino/Xamarin.Samples)
 
 17:15 18:15  
 Universal Windows Platform: Design an enterprise architecture for universal app - Salvatore Aprile (DotNetSide, Beque)  
