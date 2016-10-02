@@ -8,19 +8,45 @@ L'incontro è dedicato a tutti gli sviluppatori che desiderano avere uno sguardo
 Per tutti coloro che sono alla ricerca di un'opportunità di lavoro, è inoltre possibile sostenere un breve colloquio conoscitivo con i responsabili di Talentia Software. E' consigliabile, quindi, portare con sè il proprio curriculum vitae.
 
 # L'agenda
-09:00 09:30 Registrazione  
-09:30 10:30 Keynote - DotNetSide, Microsoft, Talentia Software  
-10:30 11:30 ASP.NET Core - Daniele Bochicchio (Microsoft Regional Director, ASPItalia, iCubed)  
-11:30 11:45 Pausa  
-11:45 13:00 Microsoft for IoT: Windows and Azure - Erica Barone (Microsoft)  
-13:00 14:00 Pranzo  
-14:00 15:00 Azure unleashed: Asp.net core &lt;3 CQRS - Andrea Saltarello (Microsoft Regional Director, UGIdotNET, Managed Designs)  
-15:00 16:00 Angular JS 2 - Michele Aponte (MVP, DotNetCampania, Blexin)   
-16:00 16:15 Pausa  
-16:15 17:15 From 0 to Xamarin: Adventures in a Cross-Platform world - Fabio Cozzolino (MVP, DotNetSide)  
-17:15 18:15 Universal Windows Platform: Design an enterprise architecture for universal app - Salvatore Aprile (DotNetSide, Beque)  
-18:15 18:30 Chiusura lavori
+09:00 09:30  
+Registrazione  
+
+09:30 10:30 
+Keynote - DotNetSide, Microsoft, Talentia Software  
+
+10:30 11:30 
+ASP.NET Core - Daniele Bochicchio (Microsoft Regional Director, ASPItalia, iCubed)  
+
+11:30 11:45 
+Pausa  
+
+11:45 13:00 
+Microsoft for IoT: Windows and Azure - Erica Barone (Microsoft)  
+
+13:00 14:00 
+Pranzo  
+
+14:00 15:00 
+Azure unleashed: Asp.net core &lt;3 CQRS - Andrea Saltarello (Microsoft Regional Director, UGIdotNET, Managed Designs)  
+
+15:00 16:00 
+Angular JS 2 - Michele Aponte (MVP, DotNetCampania, Blexin)   
+
+16:00 16:15 
+Pausa  
+
+16:15 17:15 
+From 0 to Xamarin: Adventures in a Cross-Platform world - Fabio Cozzolino (MVP, DotNetSide)  
+
+17:15 18:15 
+Universal Windows Platform: Design an enterprise architecture for universal app - Salvatore Aprile (DotNetSide, Beque)  
+
+18:15 18:30 
+Chiusura lavori
 
 # Labs
-14:00 – 18:00 Lab: Internet of Things  
-14:00 – 18:00 Colloqui con Talentia
+14:00 18:00 
+Lab: Internet of Things  
+
+14:00 18:00 
+Colloqui con Talentia
